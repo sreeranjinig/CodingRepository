@@ -1,0 +1,18 @@
+{
+  "name": "packageName1",
+  "description": "desc",
+  "productRequestList": [
+    {
+      "productName": "Prdt1 - 4XSQpv6XVeJm",
+      "productDescription": "prodDesc",
+      "productPrice": 100.00,
+      "currency": "GBP"
+    },
+    {
+      "productName": "Prdt2 - 4XSQpv6XVeJm",
+      "productDescription": "prodDesc",
+      "productPrice": 100.00,
+      "currency": "USD"
+    }
+  ]
+}

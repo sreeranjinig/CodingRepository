@@ -1,0 +1,18 @@
+{
+  "packageId": 2,
+  "packageName": "packageName1",
+  "packageDescription": "desc",
+  "products": [
+    {
+      "id": 2,
+      "name": "Prdt1 - 4XSQpv6XVeJm",
+      "usdPrice": 79.3470000
+    },
+    {
+      "id": 3,
+      "name": "Prdt2 - 4XSQpv6XVeJm",
+      "usdPrice": 100.00
+    }
+  ],
+  "totalPrice": 179.3470000
+}
