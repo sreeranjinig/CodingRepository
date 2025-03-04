@@ -1,0 +1,14 @@
+{
+  "id": "2",
+  "name": "Updated Package Name",
+  "description": "Updated Desc",
+  "productRequestList": [
+    {
+      "id": "2",
+      "productName": "Prdt2 - 4XSQpv6XVeJm",
+      "productDescription": "Updated prodDesc",
+      "productPrice": 100.00,
+      "currency": "USD"
+    }
+  ]
+}
